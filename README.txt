@@ -1,16 +1,27 @@
----------------------------LACUENTALAVIEJAPP--------------------------------
+# LACUENTALAVIEJAPP
 
+---
 
-Entrega realizada por: Laia Clemente Crespo, 1DAM
+## Entrega realizada por:
+Laia Clemente Crespo, 1DAM
 
-Tipo de servidor MYSQL: localhost
-Usuario: root
-Contraseña:
+## Configuración del servidor MYSQL:
+- Tipo de servidor: localhost
+- Usuario: root
+- Contraseña: (se deja en blanco)
 
-LACUENTALAVIEJAPP es una aplicación que utiliza PHP, HTML, CSS y MYSQL, y sirve para llevar una gestión personal
-de los gastos mensuales. En ella, se pueden añadir/eliminar/modificar tanto gastos como categorías, así como visualizar estadísticas.
+## Descripción
 
+**LACUENTALAVIEJAPP** es una aplicación desarrollada utilizando PHP, HTML, CSS y MYSQL. Su principal objetivo es permitir a los usuarios llevar un registro personal de sus gastos mensuales. Con esta aplicación, puedes realizar las siguientes acciones:
 
-LINK AL VÍDEO EXPLICATIVO DE LA APP:
+- Añadir nuevos gastos.
+- Eliminar gastos existentes.
+- Modificar información de los gastos.
+- Gestionar categorías para organizar tus gastos.
+- Visualizar estadísticas relacionadas con tus gastos.
 
-https://youtu.be/nWTud1UDXdI
+## Vídeo Explicativo
+
+Para obtener una guía detallada sobre cómo utilizar **LACUENTALAVIEJAPP**, puedes ver el vídeo explicativo en el siguiente enlace:
+
+[![Vídeo Explicativo](https://example.com/imagen_thumbnail.jpg)](https://youtu.be/nWTud1UDXdI)
