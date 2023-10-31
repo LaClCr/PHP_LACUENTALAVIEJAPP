@@ -1,5 +1,7 @@
 # LACUENTALAVIEJAPP
 
+<img src = "https://github.com/LaClCr/PHP_LACUENTALAVIEJAPP/blob/936819a541e1c938674764e5a9af04f03ce68eb0/MEDIA/Portada01.png">
+
 ---
 
 ## Entrega realizada por:
