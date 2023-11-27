@@ -26,5 +26,6 @@ Laia Clemente Crespo, 1DAM
 
 Para obtener una guía detallada sobre cómo utilizar **LACUENTALAVIEJAPP**, puedes ver el vídeo explicativo en el siguiente enlace:
 
-[![Vídeo Explicativo](https://www.youtube.com/watch?v=nWTud1UDXdI)
+[![Vídeo Explicativo](https://www.youtube.com/watch?v=nWTud1UDXdI)](https://www.youtube.com/watch?v=nWTud1UDXdI)
+
 
